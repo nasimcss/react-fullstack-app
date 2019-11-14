@@ -1,0 +1,29 @@
+{
+  "name": "react-fullstack-app",
+  "version": "1.0.0",
+  "description": "react app for a full stack app developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasimcss/react-fullstack-app.git"
+  },
+  "keywords": [],
+  "author": "Nasim Javaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasimcss/react-fullstack-app/issues"
+  },
+  "homepage": "https://github.com/nasimcss/react-fullstack-app#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "pg": "^7.12.1",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
+  }
+}
